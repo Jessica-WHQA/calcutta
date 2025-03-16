@@ -1,0 +1,38 @@
+/* Place your CSS styles in this file */
+@font-face {
+    font-family: 'editorial';
+    src: url('editorial.woff') format('woff');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'formula';
+    src: url('formula.woff') format('woff');
+    font-style: normal;
+}
+article,p,li{
+    font-family: 'editorial';
+    color:#27412D;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+h2{
+    font-family:'formula';
+    color:#F85501;
+    text-align: center;
+    width:100%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    padding:0px;
+    margin:0px;
+    height:150px;
+}
+header{
+     border-bottom:1px solid #0a592c;
+}
