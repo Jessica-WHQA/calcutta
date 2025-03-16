@@ -42,11 +42,6 @@ img {
     padding: 0;
     margin: 0;
 }
-
-header {
-    border-bottom: 1px solid #0a592c;
-}
-
 button {
     font-family: 'formula';
     font-size: 20px;
@@ -59,7 +54,6 @@ button {
     height: 50px;
     box-shadow: none;
 }
-
 div.lineseperation {
     border-bottom: 1px solid #0a592c;
     padding: 10px;
