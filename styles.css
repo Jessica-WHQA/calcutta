@@ -11,6 +11,9 @@
     src: url('formula.woff') format('woff');
     font-style: normal;
 }
+body{
+    background-color:white;
+}
 
 article, p, li {
     font-family: 'editorial';
