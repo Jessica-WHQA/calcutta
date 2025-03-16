@@ -19,6 +19,7 @@ ul{
 }
 h2{
     font-family:'formula';
+    letter-spacing: 1px;
     color:#F85501;
     text-align: center;
     width:100%;
@@ -35,4 +36,24 @@ img{
 }
 header{
      border-bottom:1px solid #0a592c;
+}
+button{
+    font-family:'formula';
+    font-size:20px;
+    letter-spacing: 1px;
+    background-color: #0a592c;
+    color:#F85501;
+    border-radius: 50px;
+    border-color:#0a592c;
+    width:250px;
+    height:50px;
+    box-shadow: none;
+}
+div.lineseperation{
+    border-bottom:1px solid #0a592c;
+    padding: 10px;
+    margin:5px;
+    width:50%;
+    margin-right:auto;
+    margin-left:auto;
 }
